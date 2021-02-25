@@ -1,0 +1,2 @@
+# SmartSchoolServer_LastVersion
+Java Application
